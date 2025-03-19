@@ -6,7 +6,7 @@ body {
   cursor: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='32' height='32' viewport='0 0 100 100' style='font-size:32px;'%3E%3Ctext y='50%' x='50%' dy='.3em' text-anchor='middle'%3E🫵%3C/text%3E%3C/svg%3E")
       16 16,
     auto;
-    
+  font-family: 'Pilcrow Rounded', sans-serif;
 }
 
 a.arrow {
