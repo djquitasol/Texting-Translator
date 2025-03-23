@@ -1,3 +1,13 @@
+@font-face {
+  font-family: 'Pilcrow Rounded';
+  src: url('//cdn.fontshare.com/wf/QT4CYRMMCSPIHTO635GDUTTAEHGLRQ54/MYVNSUIXZDTIB4UZKPO2L6VG72I633DS/6KQY4JB7EWYXSXKZEY5XPSJRA3OVSO2C.woff2') format('woff2'),
+       url('//cdn.fontshare.com/wf/QT4CYRMMCSPIHTO635GDUTTAEHGLRQ54/MYVNSUIXZDTIB4UZKPO2L6VG72I633DS/6KQY4JB7EWYXSXKZEY5XPSJRA3OVSO2C.woff') format('woff'),
+       url('//cdn.fontshare.com/wf/QT4CYRMMCSPIHTO635GDUTTAEHGLRQ54/MYVNSUIXZDTIB4UZKPO2L6VG72I633DS/6KQY4JB7EWYXSXKZEY5XPSJRA3OVSO2C.ttf') format('truetype');
+  font-weight: 400;
+  font-display: swap;
+  font-style: normal;
+}
+
 body {
   background-color: #fff48e;
   margin: auto;
